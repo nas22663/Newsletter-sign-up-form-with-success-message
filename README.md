@@ -57,4 +57,4 @@ ChatGpt
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nas22663)
+- Frontend Mentor - [@nas22663](https://www.frontendmentor.io/profile/nas22663)
