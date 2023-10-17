@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://github.com/nas22663/Newsletter-sign-up-form-with-success-message))
-- Live Site URL: ([https://your-live-site-url.com](https://nas22663.github.io/Newsletter-sign-up-form-with-success-message/))
+- Solution URL: (Github](https://github.com/nas22663/Newsletter-sign-up-form-with-success-message))
+- Live Site URL: ([Live Site](https://nas22663.github.io/Newsletter-sign-up-form-with-success-message/))
 
 ## My process
 
